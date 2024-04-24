@@ -1,0 +1,1 @@
+This repository is dedicated for the Data Mining laboratory class
